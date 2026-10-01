@@ -87,7 +87,7 @@ CampusSaathi-AI/
 - [x] Verified build and health tests.
       
 ## Project Screenshot
+<img width="1917" height="1090" alt="final" src="https://github.com/user-attachments/assets/784e5725-0648-4b3c-935d-56c0b54e0b8f" />
 
-<img width="1912" height="1025" alt="CampusSaathi AI Chatbot" src="https://github.com/user-attachments/assets/7731fdce-ce61-44e2-a7b7-899e7ad35007" />
 
 <img width="1915" height="1026" alt="CampusSaathi AI Chatbot Interface" src="https://github.com/user-attachments/assets/a42edc09-add9-40ce-b226-f1de4c8325e0" />
